@@ -205,6 +205,19 @@ cython_debug/
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/python,linux,visualstudiocode
+*.PNG
 *.png
 *.eps
 *.pdf
+*.ipe
+*.mat
+*.m
+*.out
+*.rar
+*.pkl
+*.csv
+Dataset/*/**
+analises/
+centers_dist/
+dataset_colab/*/**
+Proposed\ model/*/**
