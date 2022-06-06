@@ -1,2 +1,10 @@
 # gesture_rec2
-https://drive.google.com/file/d/17jahj-Oya7SX1JBcZOoHUiypAgpbTUPu/view?usp=sharing
+[Dataset](https://drive.google.com/file/d/1DyHTOb_nNtDfwA8XT9vpxgLCRVIqA1QD/view?usp=sharing)
+
+## Requirements
+- env.yml
+
+## Overview
+
+## References
+
