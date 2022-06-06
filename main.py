@@ -3,7 +3,6 @@ import os
 import pickle
 import warnings
 from operator import itemgetter
-from test import test
 
 import numpy as np
 from scipy import signal
