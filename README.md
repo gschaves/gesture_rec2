@@ -25,7 +25,7 @@ Available in this [link](https://drive.google.com/file/d/1DyHTOb_nNtDfwA8XT9vpxg
 
 ## Usage
 - Download the [Dataset](https://drive.google.com/file/d/1DyHTOb_nNtDfwA8XT9vpxgLCRVIqA1QD/view?usp=sharing);
-- Copy the dataset to the same folder where the source code is;
+- Copy the dataset to the same folder of the source code;
 - Execute main.py.
 
 ## References
